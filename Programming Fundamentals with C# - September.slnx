@@ -1,0 +1,37 @@
+<Solution>
+  <Folder Name="/01.BasicSyntaxConditionalStatementsAndLoops-Lab/">
+    <Project Path="01.StudentInformation/01.StudentInformation.csproj" />
+    <Project Path="02.Passed/02.Passed.csproj" />
+    <Project Path="03.PassedOrFailed/03.PassedOrFailed.csproj" />
+    <Project Path="04.BackIn30Minutes/04.BackIn30Minutes.csproj" />
+    <Project Path="05.MonthPrinter/05.MonthPrinter.csproj" />
+    <Project Path="06.ForeignLanguages/06.ForeignLanguages.csproj" />
+    <Project Path="07.TheatrePromotion/07.TheatrePromotion.csproj" />
+    <Project Path="08.DivisibleBy3/08.DivisibleBy3.csproj" />
+    <Project Path="09.SumOfOddNumbers/09.SumOfOddNumbers.csproj" />
+    <Project Path="10.MultiplicationTable/10.MultiplicationTable.csproj" />
+    <Project Path="11.MultiplicationTable2.0/11.MultiplicationTable2.0.csproj" />
+    <Project Path="12.EvenNumber/12.EvenNumber.csproj" />
+    <Project Path="13.HolidaysBetweenTwoDates/13.HolidaysBetweenTwoDates.csproj" />
+  </Folder>
+  <Folder Name="/02.BasicSyntaxConditionalStatementsAndLoops-Exercise/">
+    <Project Path="01.Ages/01.Ages.csproj" />
+    <Project Path="02.Division/02.Division.csproj" />
+    <Project Path="03.Vacation/03.Vacation.csproj" />
+    <Project Path="04.PrintAndSum/04.PrintAndSum.csproj" />
+    <Project Path="05.Login/05.Login.csproj" />
+    <Project Path="06.StrongNumber/06.StrongNumber.csproj" />
+    <Project Path="07.VendingMachine/07.VendingMachine.csproj" />
+    <Project Path="08.TriangleOfNumbers/08.TriangleOfNumbers.csproj" />
+    <Project Path="09.PadawanEquipment/09.PadawanEquipment.csproj" />
+    <Project Path="10.RageExpenses/10.RageExpenses.csproj" />
+    <Project Path="11.Orders/11.Orders.csproj" />
+  </Folder>
+  <Folder Name="/03.BasicSyntaxConditionalStatementsAndLoops-MoreExercise/">
+    <Project Path="01.SortNumbers/01.SortNumbers.csproj" />
+    <Project Path="02.EnglishNameOfTheLastDigit/02.EnglishNameOfTheLastDigit.csproj" />
+    <Project Path="03.GamingStore/03.GamingStore.csproj" />
+    <Project Path="04.ReverseString/04.ReverseString.csproj" />
+    <Project Path="05.Messages/05.Messages.csproj" />
+  </Folder>
+</Solution>
