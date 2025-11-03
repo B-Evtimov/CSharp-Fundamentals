@@ -81,4 +81,11 @@
     <Project Path="07.MaxSequenceOfEqualElements/07.MaxSequenceOfEqualElements.csproj" Id="78f40f5b-f2f7-42e6-ab53-1126abc402bf" />
     <Project Path="08.MagicSum/08.MagicSum.csproj" Id="70a38f72-ddf7-422b-98c5-1bd54774b341" />
   </Folder>
+  <Folder Name="/08.Arrays-MoreExercise/">
+    <Project Path="01.EncryptSortAndPrintArray/01.EncryptSortAndPrintArray.csproj" Id="5dddfe63-467e-4453-8c8b-03c7a55b0e15" />
+    <Project Path="02.PascalTriangle/02.PascalTriangle.csproj" Id="dfedc2da-d0cf-4e85-b249-73f56b3b70fe" />
+    <Project Path="03.RecursiveFibonacci/03.RecursiveFibonacci.csproj" Id="0f132be0-7dbb-4eeb-a23e-4edaade01ae1" />
+    <Project Path="04.FoldAndSum/04.FoldAndSum.csproj" Id="16f4dfe4-acfb-4c41-b840-93935e28c159" />
+    <Project Path="05.LongestIncreasingSubsequence/05.LongestIncreasingSubsequence.csproj" Id="66d26c64-6163-4b72-b55f-082daeddb607" />
+  </Folder>
 </Solution>
