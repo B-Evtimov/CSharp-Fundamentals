@@ -88,4 +88,29 @@
     <Project Path="04.FoldAndSum/04.FoldAndSum.csproj" Id="16f4dfe4-acfb-4c41-b840-93935e28c159" />
     <Project Path="05.LongestIncreasingSubsequence/05.LongestIncreasingSubsequence.csproj" Id="66d26c64-6163-4b72-b55f-082daeddb607" />
   </Folder>
+  <Folder Name="/09.Methods-Lab/">
+    <Project Path="01.SignOfIntegerNumbers/01.SignOfIntegerNumbers.csproj" Id="8f6c586f-a188-45d8-80d3-7e277ab46699" />
+    <Project Path="02.Grades/02.Grades.csproj" Id="9f912386-d487-46d6-b888-be2d593406d5" />
+    <Project Path="03.Calculations/03.Calculations.csproj" Id="f66f0c91-c01e-4f2a-b8d1-19b968f492ff" />
+    <Project Path="04.PrintingTriangle/04.PrintingTriangle.csproj" Id="5a069e14-61fa-40f4-8621-7d7119df1238" />
+    <Project Path="05.Orders/05.Orders.csproj" Id="64ce03f7-7b0e-4893-88a4-fce3242320bb" />
+    <Project Path="06.CalculateRectangleArea/06.CalculateRectangleArea.csproj" Id="a076ca1c-89b8-44ea-bc93-ff5df400d4be" />
+    <Project Path="07.RepeatString/07.RepeatString.csproj" Id="ba05649b-b331-447c-8d47-23f766dbd8b4" />
+    <Project Path="08.MathPower/08.MathPower.csproj" Id="0ca891b3-ed08-49e0-8991-329486449700" />
+    <Project Path="09.GreaterOfTwoValues/09.GreaterOfTwoValues.csproj" Id="d84067e2-1873-4980-9896-38197a000452" />
+    <Project Path="10.MultiplyEvensByOdds/10.MultiplyEvensByOdds.csproj" Id="4ea4351a-b3d5-4af7-9ce8-03574c9f5012" />
+    <Project Path="11.MathOperations/11.MathOperations.csproj" Id="3468f003-387c-4ecf-a0eb-54a49032fcba" />
+  </Folder>
+  <Folder Name="/10.Methods-Exercise/">
+    <Project Path="01.SmallestOfThreeNumbers/01.SmallestOfThreeNumbers.csproj" Id="fa566908-fc73-4165-9bef-7909334afc75" />
+    <Project Path="02.VowelsCount/02.VowelsCount.csproj" Id="101f6d55-e2ba-4aa7-824a-c02fefae0b26" />
+    <Project Path="03.CharactersInRange/03.CharactersInRange.csproj" Id="d36963f6-daea-4899-991e-427ca7a95c33" />
+    <Project Path="04.PasswordValidator/04.PasswordValidator.csproj" Id="dea8af5e-bc93-4848-9d93-2852b8d5944b" />
+    <Project Path="05.AddAndSubtract/05.AddAndSubtract.csproj" Id="0b61345a-a9f6-413c-81de-bdf19fb5bb16" />
+    <Project Path="06.MiddleCharacters/06.MiddleCharacters.csproj" Id="49a028b6-2ab2-4b21-87c4-18997dd9b0e7" />
+    <Project Path="07.NxNMatrix/07.NxNMatrix.csproj" Id="0d69bf0f-99f8-4753-8cf5-cf6db854c558" />
+    <Project Path="08.FactorialDivision/08.FactorialDivision.csproj" Id="ab7599a7-a31b-49b7-ad92-29e0691a2a06" />
+    <Project Path="09.PalindromeIntegers/09.PalindromeIntegers.csproj" Id="779158ab-8d81-4742-a065-274c7a3459f4" />
+    <Project Path="10.TopNumber/10.TopNumber.csproj" Id="84b2d624-1c87-4c96-8142-5b650c03ecef" />
+  </Folder>
 </Solution>
