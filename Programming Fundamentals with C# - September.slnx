@@ -34,4 +34,31 @@
     <Project Path="04.ReverseString/04.ReverseString.csproj" />
     <Project Path="05.Messages/05.Messages.csproj" />
   </Folder>
+  <Folder Name="/04.DataTypesAndVariables-Lab/">
+    <Project Path="01.ConvertMetersToKilometers/01.ConvertMetersToKilometers.csproj" Id="3067a5f8-8b8f-42a5-8369-061b6702404e" />
+    <Project Path="02.PoundsToDollars/02.PoundsToDollars.csproj" Id="c2e49084-3717-40bd-9639-05bb611ef467" />
+    <Project Path="03.ExactSumOfRealNumbers/03.ExactSumOfRealNumbers.csproj" Id="c97c17ef-88bf-4e69-8574-8a35959d16e2" />
+    <Project Path="04.CenturiesToMinutes/04.CenturiesToMinutes.csproj" Id="a823b6b7-a328-4ca4-851f-58d0b7d728be" />
+    <Project Path="05.SpecialNumbers/05.SpecialNumbers.csproj" Id="9358536c-faa9-4338-a44a-e58dbe814827" />
+    <Project Path="06.ReversedChars/06.ReversedChars.csproj" Id="b760ba4c-07de-4a9e-95e9-a3c7264865cc" />
+    <Project Path="07.ConcatNames/07.ConcatNames.csproj" Id="2627718a-cb9b-4090-82ef-43982ebe425f" />
+    <Project Path="08.TownInfo/08.TownInfo.csproj" Id="39c22cac-17c1-4438-b688-50a40b14d708" />
+    <Project Path="09.CharsToString/09.CharsToString.csproj" Id="31b79a80-dfee-432b-8d0c-7f8af47b46c0" />
+    <Project Path="10.LowerOrUpper/10.LowerOrUpper.csproj" Id="41252b74-86e6-4bb1-80ec-0b43440bbffa" />
+    <Project Path="11.RefactorVolumeOfPyramid/11.RefactorVolumeOfPyramid.csproj" Id="30600575-a909-43f6-8cbb-42c47863fd2f" />
+    <Project Path="12.RefactorSpecialNumbers/12.RefactorSpecialNumbers.csproj" Id="05f02480-8f67-4832-b162-a5fd07dc89f3" />
+  </Folder>
+  <Folder Name="/05.DataTypesAndVariables-Exercise/">
+    <Project Path="01.IntegerOperations/01.IntegerOperations.csproj" Id="4aabd162-4644-49f4-aecc-f6bfbf3c5cae" />
+    <Project Path="02.SumDigits/02.SumDigits.csproj" Id="e5fb708b-8096-4bb3-98cf-b1db7aa64c76" />
+    <Project Path="03.Elevator/03.Elevator.csproj" Id="60a71654-7b6a-40e0-aabe-d06bbacb2013" />
+    <Project Path="04.SumOfChars/04.SumOfChars.csproj" Id="12475db1-ff35-4d3c-8a68-487ba9e78d82" />
+    <Project Path="05.PrintPartOfASCIITable/05.PrintPartOfASCIITable.csproj" Id="d83620c7-c2ed-4394-8541-5b8df6bbc39e" />
+    <Project Path="06.TriplesOfLatinLetters/06.TriplesOfLatinLetters.csproj" Id="8265ae67-1fbf-4681-a591-8336284fa353" />
+    <Project Path="07.WaterOverflow/07.WaterOverflow.csproj" Id="5a0cfd0c-1b5d-423c-a58b-982d23103094" />
+    <Project Path="08.BeerKegs/08.BeerKegs.csproj" Id="53d6cce6-e334-4df6-846e-053bbe279529" />
+    <Project Path="09.SpiceMustFlow/09.SpiceMustFlow.csproj" Id="6583a0d0-57df-4a68-af1d-0da3f2c94645" />
+    <Project Path="10.PokeMon/10.PokeMon.csproj" Id="10b25445-9021-44de-ad15-520bd1b0c2c5" />
+    <Project Path="11.Snowballs/11.Snowballs.csproj" Id="78738977-c922-4afd-878b-52154e594f84" />
+  </Folder>
 </Solution>
