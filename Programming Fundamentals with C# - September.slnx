@@ -123,12 +123,30 @@
     <Project Path="07.ListManipulationAdvanced/07.ListManipulationAdvanced.csproj" Id="f06b67b5-95ac-427e-8427-acbcc8da2e86" />
   </Folder>
   <Folder Name="/12.Lists-Exercise/">
-    <Project Path="01. Train/01. Train.csproj" Id="754e0a11-280d-47d7-88ce-1643c29c2241" />
+    <Project Path="01. Train/01.Train.csproj" Id="754e0a11-280d-47d7-88ce-1643c29c2241" />
     <Project Path="02.ChangeList/02.ChangeList.csproj" Id="6b976b6f-3c18-4bc3-be6c-c8d7528b6d23" />
     <Project Path="03.HouseParty/03.HouseParty.csproj" Id="0e901c2f-0840-4770-8396-6741564665ce" />
     <Project Path="04.ListOperations/04.ListOperations.csproj" Id="dbcfcfb1-f18c-43f0-a8bd-7232c47a08a0" />
     <Project Path="05.BombNumbers/05.BombNumbers.csproj" Id="cf1feb79-4faf-46f0-8d2a-44311c6df279" />
     <Project Path="06.CardsGame/06.CardsGame.csproj" Id="3aae2fd1-aee7-4f9e-bc73-39e26c4832fa" />
     <Project Path="07.AppendArrays/07.AppendArrays.csproj" Id="893fd33a-160d-4a81-b432-10e6095d1cd7" />
+  </Folder>
+  <Folder Name="/13.ObjectsAndClasses-Lab/">
+    <Project Path="01.RandomizeWords/01.RandomizeWords.csproj" Id="7f60aef4-9440-49b7-950d-31a2c4e8c4ab" />
+    <Project Path="02.BigFactorial/02.BigFactorial.csproj" Id="b8b16575-53bb-41d4-926e-912cc79d4db2" />
+    <Project Path="03.Songs/03.Songs.csproj" Id="1693995b-5b27-4420-81e1-a72d6781a1a3" />
+    <Project Path="04.Students/04.Students.csproj" Id="85c14ff0-9793-471a-9c2d-cfc8f6793b9d" />
+    <Project Path="05.Students2.0/05.Students2.0.csproj" Id="8df132d0-2ec4-45b7-b30d-b356aeb393b5" />
+    <Project Path="06.StoreBoxes/06.StoreBoxes.csproj" Id="2a27a7c0-052a-4e6d-a63f-804d65589265" />
+    <Project Path="07.VehicleCatalogue/07.VehicleCatalogue.csproj" Id="700e9a8c-a7c7-493b-9d1c-cfeb552a83e9" />
+  </Folder>
+  <Folder Name="/14.ObjectsAndClasses-Exercise/">
+    <Project Path="01.AdvertisementMessage/01.AdvertisementMessage.csproj" Id="8a9252a4-a48d-495a-afc3-4114b554f930" />
+    <Project Path="02.Articles/02.Articles.csproj" Id="66cf6cfe-92c6-47c2-98dd-042b396a44ad" />
+    <Project Path="03.Articles2.0/03.Articles2.0.csproj" Id="e200d78c-8676-4ba3-823d-90ff931cd999" />
+    <Project Path="04. Students/04.Students.csproj" Id="80237c25-34de-4b2c-8c18-ba575905b8a7" />
+    <Project Path="05.TeamworkProjects/05.TeamworkProjects.csproj" Id="7c9e12be-cd49-4f76-a1c5-7b99a18b8fd2" />
+    <Project Path="06.VehicleCatalogue/06.VehicleCatalogue.csproj" Id="4a14e8f2-96ff-4022-bf17-258d43cf52a4" />
+    <Project Path="07.OrderByAge/07.OrderByAge.csproj" Id="8f140acb-e19f-4ed4-b84d-d3125d0f58b0" />
   </Folder>
 </Solution>
