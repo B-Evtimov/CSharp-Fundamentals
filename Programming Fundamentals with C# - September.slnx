@@ -149,4 +149,19 @@
     <Project Path="06.VehicleCatalogue/06.VehicleCatalogue.csproj" Id="4a14e8f2-96ff-4022-bf17-258d43cf52a4" />
     <Project Path="07.OrderByAge/07.OrderByAge.csproj" Id="8f140acb-e19f-4ed4-b84d-d3125d0f58b0" />
   </Folder>
+  <Folder Name="/15.AssociativeArrays-Lab/">
+    <Project Path="01.CountRealNumbers/01.CountRealNumbers.csproj" Id="6c9f8856-fd20-474a-8e54-c307def4a11d" />
+    <Project Path="02.OddOccurrences/02.OddOccurrences.csproj" Id="ec66459c-1bd3-4abd-ba48-f5ad8a3e5315" />
+    <Project Path="03.WordSynonyms/03.WordSynonyms.csproj" Id="e28085dd-ecf5-4fcc-a96a-a7c23a58ed8d" />
+    <Project Path="04.WordFilter/04.WordFilter.csproj" Id="abbbf4af-ef13-46d9-b406-a311e417ba2d" />
+  </Folder>
+  <Folder Name="/16.AssociativeArrays-Exercise/">
+    <Project Path="01.CountCharsnAString/01.CountCharsnAString.csproj" Id="07a77696-0132-4a27-8037-ee12d3621d35" />
+    <Project Path="02.AMinerTask/02.AMinerTask.csproj" Id="bc3e7c15-f736-4d65-a4b1-ccb80bd3910d" />
+    <Project Path="03.Orders/03.Orders.csproj" Id="1cbe6628-2be4-4e4c-902d-ac8fba8d12b0" />
+    <Project Path="04.SoftUniParking/04.SoftUniParking.csproj" Id="5276a2d6-f8d7-4bd8-aa32-3a8004c178d4" />
+    <Project Path="05.Courses/05.Courses.csproj" Id="d477d83f-a94c-4ef5-8b1f-44f3f8250f82" />
+    <Project Path="06.StudentAcademy/06.StudentAcademy.csproj" Id="c762e9f2-3a76-4aa9-938e-a95f948ca391" />
+    <Project Path="07.CompanyUsers/07.CompanyUsers.csproj" Id="9cba5b3b-41c4-40a9-94d3-924483217a5c" />
+  </Folder>
 </Solution>
