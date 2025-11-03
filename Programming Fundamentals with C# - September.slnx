@@ -113,4 +113,22 @@
     <Project Path="09.PalindromeIntegers/09.PalindromeIntegers.csproj" Id="779158ab-8d81-4742-a065-274c7a3459f4" />
     <Project Path="10.TopNumber/10.TopNumber.csproj" Id="84b2d624-1c87-4c96-8142-5b650c03ecef" />
   </Folder>
+  <Folder Name="/11.Lists-Lab/">
+    <Project Path="01.SumAdjacentEqualNumbers/01.SumAdjacentEqualNumbers.csproj" Id="559a6206-1aef-436a-bef4-a6e1ee7f6566" />
+    <Project Path="02.Gauss'Trick/02.Gauss'Trick.csproj" Id="53292a20-e4b1-444b-89c8-4700ca52de17" />
+    <Project Path="03.MergingLists/03.MergingLists.csproj" Id="54b3f81d-501c-4eb5-8623-f2542945246b" />
+    <Project Path="04.ListOfProducts/04.ListOfProducts.csproj" Id="94daa424-2dc1-43dc-ad79-6e2a188fc30c" />
+    <Project Path="05.RemoveNegativesAndReverse/05.RemoveNegativesAndReverse.csproj" Id="da0e0030-6792-4a54-b1f3-486611396933" />
+    <Project Path="06.ListManipulationBasics/06.ListManipulationBasics.csproj" Id="b670401f-4842-48ee-9eb4-d6d60e936ed5" />
+    <Project Path="07.ListManipulationAdvanced/07.ListManipulationAdvanced.csproj" Id="f06b67b5-95ac-427e-8427-acbcc8da2e86" />
+  </Folder>
+  <Folder Name="/12.Lists-Exercise/">
+    <Project Path="01. Train/01. Train.csproj" Id="754e0a11-280d-47d7-88ce-1643c29c2241" />
+    <Project Path="02.ChangeList/02.ChangeList.csproj" Id="6b976b6f-3c18-4bc3-be6c-c8d7528b6d23" />
+    <Project Path="03.HouseParty/03.HouseParty.csproj" Id="0e901c2f-0840-4770-8396-6741564665ce" />
+    <Project Path="04.ListOperations/04.ListOperations.csproj" Id="dbcfcfb1-f18c-43f0-a8bd-7232c47a08a0" />
+    <Project Path="05.BombNumbers/05.BombNumbers.csproj" Id="cf1feb79-4faf-46f0-8d2a-44311c6df279" />
+    <Project Path="06.CardsGame/06.CardsGame.csproj" Id="3aae2fd1-aee7-4f9e-bc73-39e26c4832fa" />
+    <Project Path="07.AppendArrays/07.AppendArrays.csproj" Id="893fd33a-160d-4a81-b432-10e6095d1cd7" />
+  </Folder>
 </Solution>
