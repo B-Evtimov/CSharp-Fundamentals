@@ -61,4 +61,24 @@
     <Project Path="10.PokeMon/10.PokeMon.csproj" Id="10b25445-9021-44de-ad15-520bd1b0c2c5" />
     <Project Path="11.Snowballs/11.Snowballs.csproj" Id="78738977-c922-4afd-878b-52154e594f84" />
   </Folder>
+  <Folder Name="/06.Arrays-Lab/">
+    <Project Path="01.DayОfWeek/01.DayОfWeek.csproj" Id="bff02e2d-ee77-4a98-861c-92424466998e" />
+    <Project Path="02.PrintNumbersИnReverseOrder/02.PrintNumbersИnReverseOrder.csproj" Id="d9211092-6cc8-44e4-86a9-03bb1fef54d3" />
+    <Project Path="03.RoundingNumbers/03.RoundingNumbers.csproj" Id="b8c1539a-84b8-43b1-aafe-21e1fcfcab80" />
+    <Project Path="04.ReverseArrayOfStrings/04.ReverseArrayOfStrings.csproj" Id="c1d8672e-7e26-449f-9ec9-d2fbf2d0688e" />
+    <Project Path="05.SumEvenNumbers/05.SumEvenNumbers.csproj" Id="838c2074-48e0-4c59-b771-dfa44b9c8948" />
+    <Project Path="06.EvenAndOddSubtraction/06.EvenAndOddSubtraction.csproj" Id="b8db0585-89c6-4005-a66e-899d991c5556" />
+    <Project Path="07.EqualArrays/07.EqualArrays.csproj" Id="9a7d23a5-5634-42de-bedd-5e17f4ec5f21" />
+    <Project Path="08.CondenseArrayToNumber/08.CondenseArrayToNumber.csproj" Id="d2e2faa7-cee1-452f-8291-bef56be1b844" />
+  </Folder>
+  <Folder Name="/07.Arrays-Exercise/">
+    <Project Path="01.Train/01.Train.csproj" Id="714a9507-43fb-4d37-98be-9ff3716c39b2" />
+    <Project Path="02.CommonElements/02.CommonElements.csproj" Id="7263ec58-7ac3-4ae4-9dfc-1ed6fa4aef10" />
+    <Project Path="03.Zig-ZagArrays/03.Zig-ZagArrays.csproj" Id="66f78079-0ef3-4e21-a900-4489ad290540" />
+    <Project Path="04.ArrayRotation/04.ArrayRotation.csproj" Id="8b8881a9-c2a2-4f44-b521-f60add024c43" />
+    <Project Path="05.TopIntegers/05.TopIntegers.csproj" Id="2aa48247-883e-4bc0-a9c3-5051134bca29" />
+    <Project Path="06.EqualSum/06.EqualSum.csproj" Id="bcada9c0-3d1b-4faf-840e-17932ed56ebe" />
+    <Project Path="07.MaxSequenceOfEqualElements/07.MaxSequenceOfEqualElements.csproj" Id="78f40f5b-f2f7-42e6-ab53-1126abc402bf" />
+    <Project Path="08.MagicSum/08.MagicSum.csproj" Id="70a38f72-ddf7-422b-98c5-1bd54774b341" />
+  </Folder>
 </Solution>
