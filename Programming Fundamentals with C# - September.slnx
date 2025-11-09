@@ -164,4 +164,24 @@
     <Project Path="06.StudentAcademy/06.StudentAcademy.csproj" Id="c762e9f2-3a76-4aa9-938e-a95f948ca391" />
     <Project Path="07.CompanyUsers/07.CompanyUsers.csproj" Id="9cba5b3b-41c4-40a9-94d3-924483217a5c" />
   </Folder>
+  <Folder Name="/17.TextProcessing-Lab/">
+    <Project Path="01.ReverseStrings/01.ReverseStrings.csproj" Id="5467ab46-5c47-47b8-8f07-c16e1690dfb6" />
+    <Project Path="02.RepeatStrings/02.RepeatStrings.csproj" Id="b9268a61-d79f-46c9-bc8e-d6756c2c0a16" />
+    <Project Path="03.Substring/03.Substring.csproj" Id="dc455b30-d692-4885-8fde-2290850e8c02" />
+    <Project Path="04.TextFilter/04.TextFilter.csproj" Id="730de6d9-dc16-4a5c-a842-876a3cffd4d7" />
+    <Project Path="05.DigitsLettersAndOther/05.DigitsLettersAndOther.csproj" Id="e49a446c-4ccf-4291-8b11-864e8b0fa97c" />
+  </Folder>
+  <Folder Name="/18.TextProcessing-Exercise/">
+    <Project Path="01.ValidUsernames/01.ValidUsernames.csproj" Id="e1d9789a-cf8e-4939-9382-82c5625a4cd6" />
+    <Project Path="02.CharacterMultiplier/02.CharacterMultiplier.csproj" Id="a2bc6558-cb89-4382-9256-26e73e6d5ca3" />
+    <Project Path="03.ExtractFile/03.ExtractFile.csproj" Id="cd7fd410-eac7-4d15-ae5f-d670f387475f" />
+    <Project Path="04.CaesarCipher/04.CaesarCipher.csproj" Id="d1c18954-9635-411f-8f65-1358aaa907c9" />
+    <Project Path="05.MultiplyBigNumber/05.MultiplyBigNumber.csproj" Id="bca3e2d0-3c5a-4607-9957-709ae2982763" />
+    <Project Path="06.ReplaceRepeatingChars/06.ReplaceRepeatingChars.csproj" Id="76d9176a-51a8-4302-9b8c-2edf48f18fec" />
+    <Project Path="07.StringExplosion/07.StringExplosion.csproj" Id="f277751c-3a38-4a94-ac22-de4ba4779cf5" />
+  </Folder>
+  <Folder Name="/19.RegularExpressions-Lab/" />
+  <Folder Name="/20.RegularExpressions-Exercise/" />
+  <Folder Name="/21.ProblemSolving/" />
+  <Folder Name="/22.FinalExam/" />
 </Solution>
