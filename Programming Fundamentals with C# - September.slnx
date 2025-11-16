@@ -180,8 +180,21 @@
     <Project Path="06.ReplaceRepeatingChars/06.ReplaceRepeatingChars.csproj" Id="76d9176a-51a8-4302-9b8c-2edf48f18fec" />
     <Project Path="07.StringExplosion/07.StringExplosion.csproj" Id="f277751c-3a38-4a94-ac22-de4ba4779cf5" />
   </Folder>
-  <Folder Name="/19.RegularExpressions-Lab/" />
-  <Folder Name="/20.RegularExpressions-Exercise/" />
+  <Folder Name="/19.RegularExpressions-Lab/">
+    <Project Path="01.MatchFullName/01.MatchFullName.csproj" Id="8b5dbce2-fe9f-4959-a4ae-74a33acd9c78" />
+    <Project Path="02.MatchPhoneNumber/02.MatchPhoneNumber.csproj" Id="a9dc2fcc-f20a-44bb-9337-f13f0d29b166" />
+    <Project Path="03.MatchDates/03.MatchDates.csproj" Id="7a41e4ac-e448-4499-b306-3e9f9b11b2ae" />
+  </Folder>
+  <Folder Name="/20.RegularExpressions-Exercise/">
+    <Project Path="01.Furniture/01.Furniture.csproj" Id="2e2420f8-f472-41b1-b589-03f0700fe9e8" />
+    <Project Path="02.Race/02.Race.csproj" Id="54cb3dcb-6693-4f4b-8c8c-53a8e6ae8502" />
+    <Project Path="03.SoftUniBarIncome/03.SoftUniBarIncome.csproj" Id="78384e7b-6ab9-4a04-b3b9-d540ca3fb36b" />
+  </Folder>
   <Folder Name="/21.ProblemSolving/" />
-  <Folder Name="/22.FinalExam/" />
+  <Folder Name="/FinalExam/" />
+  <Folder Name="/MidExam/">
+    <Project Path="01.Problem/01.Problem.csproj" Id="258e1ec9-7fae-4131-9940-b8d2f54b0455" />
+    <Project Path="02.Problem/02.Problem.csproj" Id="05953806-a706-4e0d-9adf-96b796cf977f" />
+    <Project Path="03.Problem/03.Problem.csproj" Id="2602af6e-db20-4d33-ae97-5f03d6222e46" />
+  </Folder>
 </Solution>
