@@ -191,7 +191,11 @@
     <Project Path="03.SoftUniBarIncome/03.SoftUniBarIncome.csproj" Id="78384e7b-6ab9-4a04-b3b9-d540ca3fb36b" />
   </Folder>
   <Folder Name="/21.ProblemSolving/" />
-  <Folder Name="/FinalExam/" />
+  <Folder Name="/FinalExam/">
+    <Project Path="Problem1/Problem1.csproj" Id="7350ed29-c7ac-458e-acd8-14648efbb9df" />
+    <Project Path="Problem2/Problem2.csproj" Id="b44153a4-8ff1-44d0-a391-772197d27de0" />
+    <Project Path="Problem3/Problem3.csproj" Id="6a93db7c-19ae-49df-8e23-9137e9f027e3" />
+  </Folder>
   <Folder Name="/MidExam/">
     <Project Path="01.Problem/01.Problem.csproj" Id="258e1ec9-7fae-4131-9940-b8d2f54b0455" />
     <Project Path="02.Problem/02.Problem.csproj" Id="05953806-a706-4e0d-9adf-96b796cf977f" />
